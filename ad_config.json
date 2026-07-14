@@ -37,7 +37,7 @@
     "buttonText": "ℹ️ App Info"
   },
   "remoteConfig": {
-    "primaryUrl": "https://devtris192.github.io/docs/ad_config.json",
+    "primaryUrl": "https://devtris192.github.io/ad_config.json",
     "fallbackUrl": ""
   }
 }
