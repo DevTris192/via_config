@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "refreshMinutes": 60,
+  "timeoutSeconds": 10,
+  "adNetworks": [
+    {
+      "type": "propellerads-monetag",
+      "priority": 1,
+      "config": {
+        "clickUrl": "https://omg10.com/4/11278647"
+      }
+    },
+    {
+      "type": "admaven",
+      "priority": 2,
+      "config": {
+        "clickUrl": "https://whatdidheseehe.com?RcEVN=1437665"
+      }
+    },
+    {
+      "type": "adsterra",
+      "priority": 3,
+      "config": {
+        "clickUrl": "https://www.effectivecpmnetwork.com/i5vnbsdg?key=5d720c325968a448be1c38d0d494abbc"
+      }
+    },
+    {
+      "type": "",
+      "priority": 4,
+      "config": {
+        "clickUrl": ""
+      }
+    }
+  ],
+  "placeholder": {
+    "showAppInfoButton": true,
+    "buttonText": "ℹ️ App Info"
+  },
+  "remoteConfig": {
+    "primaryUrl": "https://devtris192.github.io/docs/ad_config.json",
+    "fallbackUrl": ""
+  }
+}
