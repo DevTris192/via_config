@@ -32,10 +32,6 @@
       }
     }
   ],
-  "placeholder": {
-    "showAppInfoButton": true,
-    "buttonText": "ℹ️ App Info"
-  },
   "remoteConfig": {
     "primaryUrl": "https://devtris192.github.io/via_config/ad_config.json",
     "fallbackUrl": ""
