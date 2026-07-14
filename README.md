@@ -1,1 +1,1 @@
-config ads và links app HerdManager:Logbook
+config ads + links app HerdManager:Logbook
