@@ -23,10 +23,12 @@
       "address": "thanhtri192@gmail.com"
     },
     "qrCode1": {
-      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/qr_code1.jpg"
+      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/qr_code1.jpg",
+      "imageSha256": "fb34d7fbb49b9d34be479deab035ff65e0292a583f4478408b7ed002bf36bfaa"
     },
     "qrCode2": {
-      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/qr_code2.jpg"
+      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/qr_code2.jpg",
+      "imageSha256": "bc62cef062a99c20400ac57b50a718c8c1e77b8639f9cfd436098793dbc91c5f"
     }
   },
   "clickAds": {
@@ -55,5 +57,10 @@
     "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/name",
     "width": 728,
     "height": 90
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "0d48f30f330fe7e5",
+    "value": "rSigEm5SIWfr0N6PNrbG0Rz3DnUZXT1SW7HRaf918RsF8StF1jn5x1rSZQQVn41IL0XrsPsSNsDJQiY5rqvSBA=="
   }
 }
