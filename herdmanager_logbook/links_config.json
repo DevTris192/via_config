@@ -64,7 +64,15 @@
     "enabled": false,
     "version": "1.0.0",
     "downloadUrl": "https://drive.google.com/file/d/REPLACE_WITH_FILE_ID/view?usp=sharing",
-    "patchNotes": "HerdManager:Logbook v1.0.0\n\nTính năng mới:\n- Thêm cửa sổ Chi tiết cập nhật.\n- Cho phép sao chép toàn bộ nội dung Patch-notes.\n\nCải thiện:\n- Tối ưu giao diện Thông tin ứng dụng.\n- Cải thiện độ ổn định khi tải cấu hình từ xa.\n\nSửa lỗi:\n- Khắc phục một số lỗi hiển thị giao diện."
+    "patchNotes": "HerdManager:Logbook v1.0.0\n\n
+    Tính năng mới:\n
+    - Thêm cửa sổ Chi tiết cập nhật.\n
+    - Cho phép sao chép toàn bộ nội dung Patch-notes.\n\n
+    Cải thiện:\n
+    - Tối ưu giao diện Thông tin ứng dụng.\n
+    - Cải thiện độ ổn định khi tải cấu hình từ xa.\n\n
+    Sửa lỗi:\n
+    - Khắc phục một số lỗi hiển thị giao diện."
   },
   "signature": {
     "algorithm": "Ed25519",
