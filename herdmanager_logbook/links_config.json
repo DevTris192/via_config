@@ -53,9 +53,9 @@
     ]
   },
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "rotationMinutes": 5,
-    "clickUrl": "https://bit.ly/CCD1592",
+    "clickUrl": "",
     "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
     "width": 728,
     "height": 90,
@@ -70,6 +70,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "MHwTvjBkgXpft0cZ/hil9TaWi1ypwGkIgrX8t5/S16RY4H5GcqjgrFQ3CV/+l/IlNvDHFUC3seDcrdsa2/IqAg=="
+    "value": "nO3qn+aewsrhi9ZqWocwAJrjdvHo6e6gWFQBM2RgF/SIv2Ds9WgIROvBvaAcaMw0Bb9Yy2NmxSvQHxpl5MsRCg=="
   }
 }
