@@ -62,14 +62,14 @@
     "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
   },
   "update": {
-    "enabled": true,
+    "enabled": false,
     "version": "1.0.0",
-    "downloadUrl": "https://youtu.be/esuv3nyddyY",
+    "downloadUrl": "",
     "patchNotes": "HerdManager:Logbook v1.0.0\n\nTính năng mới:\n- Test link thôi nha.\n- Cho phép sao chép toàn bộ nội dung Patch-notes.\n\nCải thiện:\n- Tối ưu giao diện Thông tin ứng dụng.\n- Cải thiện độ ổn định khi tải cấu hình từ xa.\n\nSửa lỗi:\n- Khắc phục một số lỗi hiển thị giao diện."
   },
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "nO3qn+aewsrhi9ZqWocwAJrjdvHo6e6gWFQBM2RgF/SIv2Ds9WgIROvBvaAcaMw0Bb9Yy2NmxSvQHxpl5MsRCg=="
+    "value": "iq71/McM0Yiq6Px4JCqDw3o6g9xOLZZaT/hbWBzk4dHWa43Ux5hgnLeb78GZGYP8lkiLz6lwExlaNAlwE/87Bg=="
   }
 }
