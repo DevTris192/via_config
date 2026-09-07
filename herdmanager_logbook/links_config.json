@@ -33,7 +33,7 @@
   },
   "clickAds": {
     "enabled": true,
-    "rotationMinutes": 3,
+    "rotationMinutes": 5,
     "links": [
       {
         "name": "propellerads-monetag",
@@ -70,6 +70,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "mO+b2Gg1H8XSIURTtL3Zz93HwNN0Pi+SObx3lxIRmQM55oKP9rkX9e2/jDOxigKZy3S4zo0W2TAhcz7Cyl35Bw=="
+    "value": "bNxAnzvzYm8eGjf5AVZwG0HsLiiRyHoI3o1XiYM9Xsp4vKR5rSjwcRli6KicdRSHDElNbLW2lsNgXkWPSFfhAw=="
   }
 }
