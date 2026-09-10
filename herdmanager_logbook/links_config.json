@@ -64,7 +64,7 @@
   },
   "banners": [
     {
-      "enabled": true,
+      "enabled": false,
       "clickUrl": "https://bit.ly/HerdManager_Logbook_v103",
       "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner2.png",
       "width": 728,
@@ -89,6 +89,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "cABIxARAS71mQ5cVlUkj9Q2+PPKTLTkiDvAjoghnPQbKEBGIi1U/evuWJWtoUFcgpNv0sAgkqCLydGgcmb3JBg=="
+    "value": "RQc/RHVHKhMbin2e4623yfZyZLC0+qOzWAvpjMcwRoUo4sXP9ym1ybKgTY+Bq00Vq8FTW0iihMZwoWVXWhYXCQ=="
   }
 }
