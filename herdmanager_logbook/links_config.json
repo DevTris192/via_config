@@ -66,7 +66,7 @@
     {
       "enabled": true,
       "clickUrl": "https://bit.ly/HerdManager_Logbook_v103",
-      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
+      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner2.png",
       "width": 728,
       "height": 90,
       "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
@@ -89,6 +89,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "6UqkfZQqTgiISnZuB2wiy6OznsHesHAevLG0P7A442MlS0eb/KnTWVBFhO/4FMtty0RkHo9O382HzfKUovMvBg=="
+    "value": "C2J767mUoUmq/UxToHYZjRCHNi3QphdaT48FQEWLbu3zi6Sdr3I5u3JD8QtZaGWVMf7o+o4FymOXZXIWrDIGAw=="
   }
 }
