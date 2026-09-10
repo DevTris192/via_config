@@ -1,6 +1,7 @@
 {
   "version": 1,
   "refreshMinutes": 60,
+  "adRotationMinutes": 3,
   "appInfo": {
     "discord": {
       "displayText": "https://discord.gg/dev.HerManager",
@@ -48,28 +49,46 @@
       {
         "name": "adsterra",
         "enabled": true,
-        "clickUrl": "https://www.effectivecpmnetwork.com/i5vnbsdg?key=5d720c325968a448be1c38d0d494abbc"
+        "clickUrl": "https://www.profitableratecpmnetwork.com/pz50z8n0sc?key=1606d00566e4c3ae0dae8607cba91758"
       }
     ]
   },
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "rotationMinutes": 5,
     "clickUrl": "",
     "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
     "width": 728,
     "height": 90,
-    "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
+    "imageSha256": "dbeb1a347b7faeda1d5b4b51c056885fa8d12c835573bab1344ff08717ec4ad7"
   },
+  "banners": [
+    {
+      "enabled": true,
+      "clickUrl": "",
+      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
+      "width": 728,
+      "height": 90,
+      "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
+    },
+    {
+      "enabled": false,
+      "clickUrl": "",
+      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
+      "width": 728,
+      "height": 90,
+      "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
+    }
+  ],
   "update": {
     "enabled": true,
-    "version": "1.0.2",
-    "downloadUrl": "https://bit.ly/HerdManager_Logbook_v1-0-2",
-    "patchNotes": "eng:\nHOW TO UPDATE:\n- Run the new version of the application.\n- Check the Version, Reserve, Species, Herd, and other data to make sure nothing has been changed or lost.\n- If all data is safe, return to the folder containing the previous version of the application, run the uninstaller, and select option 1 to remove the old version from your computer.\n\nNEW FEATURES:\n- Upgraded the new Map Mode with more features for managing animal herds.\n- The map now includes more convenient and user-friendly location management features.\n\nIMPROVEMENTS:\n- Version, Reserve, Species, Herd, and other data are now transferred automatically to newer application versions more reliably.\n- Improved application stability for several previously known behaviors.\n- The Uninstaller now provides more detailed options, ensuring the previous application version can be completely removed for a cleaner upgrade to the new version.\n\nBUG FIXES:\n- Fixed several user interface display issues.\n\nKNOWN ISSUES:\n- Some areas may not switch languages correctly according to the user's language settings.\n- The Esc key does not currently work correctly in the Image Editor.\n- The Clear Filter and Sort button in the individual animal list in Map Mode is always visible.\n- Renaming a herd in the detail list does not immediately update its name in Map Mode. The application must be restarted for the change to appear.\n- Data restore and import features are currently experiencing issues, and users may be unable to use these functions. Users are advised to make an additional backup copy of the data stored in Documents/HerdManager.Logbook so it can be restored manually if needed.\n- Several other minor issues are currently being tracked but do not affect user data or normal usage.\n\nNEW PLANS:\n- The name \"Circle\" will no longer be used and will be replaced with \"Location\" to better match the application's context.\n- User guides will be added for several features.\n- Newly added herds and individual animals will be marked for easier identification.\n- The Custom Language feature will be redesigned and improved.\n- Development of the application for mobile devices is planned.\n\nWARNING!!!\n- For application version v1.0.0, all existing images will be removed. As a safety measure, the application will copy the old data from Documents/HerdManager.Logbook to Documents/HerdManager.Logbook.v1.0.0 to preserve the user's previous image data.\n- Data that has been used with a newer application version cannot be used with an older version. You can rename the Documents/HerdManager.Logbook folder if you want to run the application with a different or older version.\n-------------------------\nvi:\nCÁCH CẬP NHẬT:\n- Chạy ứng dụng phiên bản mới\n- Kiểm tra dữ liệu Phiển bản, Khu bảo tồn, Loài, Đàn,... tất cả không bị thay đổi.\n- Dữ liệu an toàn thì vào lại thư mục chứa ứng dụng phiên bản cũ chạy uninstall và chọn mục số 1 để tiến hành xóa ứng dụng phiển bản cũ khỏi máy tính.\n\nTÍNH NĂNG MỚI:\n- Nâng cấp chế độ bản đồ mới với nhiều tính năng quản lý đàn thú hơn.\n- Bản đồ đã có nhiều chức năng quản lý vị trí thuận tiện và dễ dàng hơn.\n\nCẢI THIỆN:\n- Dữ liệu Phiên bản, Khu bảo tồn, Loài, Đàn,... được chuyển tiếp tự động vào phiên bản ứng dụng mới tốt hơn.\n- Cải thiện độ ổn định của ứng dụng ở một số hành vi đã biết trước đó.\n- Trình Gỡ cài đặt đã chi tiết hơn, đảm bảo việc xóa hoàn toàn ứng dụng phiên bản cũ để lên phiên bản mới hoàn hảo.\n\nSỬA LỖI:\n- Khắc phục một số lỗi hiển thị giao diện.\n\nLỖI ĐANG THEO DÕI:\n- Một vài vị trí không chuyển đổi ngôn ngữ đúng theo cài đặt người dùng.\n- Phím Esc trong trình sửa ảnh đang hoạt động không đúng.\n- Nút xóa bộ Lọc và Sắp xếp trong danh sách cá thể của chế độ bản đồ luôn xuất hiện.\n- Đổi tên đàn trong danh sách chi tiết nhưng trong chế độ bản đồ không đổi theo, phải khởi động lại ứng dụng mới cập nhật.\n- Khôi phục và nhập dữ liệu đang lỗi, người dùng có thể không thể thực hiện được thao tác này, người dùng nên cân nhắc copy dữ liệu trong Documents/HerdManager.Logbook thêm 1 bản khác để khi cần có thể sử dụng lại.\n- Vài lỗi nhỏ khác đang không ảnh hưởng đến người dùng và dữ liệu.\n\nKẾ HOẠCH MỚI:\n- Không sử dụng tên \"Hình tròn\" nữa, mà đổi thành \"Location\" để đúng ngữ cảnh ứng dụng.\n- Vài tính năng cần có hướng dẫn sử dụng.\n- Đánh dấu cho đàn thú và cá thể mới thêm vào.\n- Ngôn ngữ tùy chỉnh sẽ được cải tạo lại.\n- Phát triển ứng dụng cho các thiết bị di động.\n\nCẢNH BÁO!!!\n- Đối với phiên bản ứng dụng v1.0.0 thì toàn bộ ảnh cũ sẽ bị xóa, cơ chế an toàn sẽ sao chép dữ liệu cũ trong Documents/HerdManager.Logbook sang Documents/HerdManager.Logbook.v1.0.0 để giữ lại dữ liệu ảnh cũ của người dùng.\n- Dữ liệu đã hoạt động ở phiên bản cao hơn sẽ không thể hoạt động ở phiên bản thấp hơn: Bạn có thể đổi tên thư mục Documents/HerdManager.Logbook để chạy lại với các phiên bản ứng dụng mong muốn."
+    "version": "1.0.3",
+    "downloadUrl": "https://bit.ly/HerdManager_Logbook_v103",
+    "patchNotes": "eng:\nHOW TO UPDATE:\n- Run the new application version.\n- Check version data, Reserves, Species, Herds,... ensure nothing has changed.\n- Once data safety is verified, delete the old version's application folder from your computer.\n\nNEW FEATURES:\n- The image capture and stitching mode has been completely revamped; users will no longer need to manually capture and stitch individual photos.\n- Added instructions for image capture and stitching inside functional windows.\n- Added guides for icon menus in map mode.\n- New notes window in map mode.\n- Badges/markers for newly added herds and individuals.\n\nIMPROVEMENTS:\n- Improved application UI.\n- Improved application data processing performance.\n- Improved stitched image quality.\n- Fitness value can be entered using either \".\" or \",\", but the application will always display it as \".\" after saving.\n- The average Fitness rating for each herd now displays as a decimal number.\n- Esc key in the image editor now works correctly.\n\nBUG FIXES:\n- Data edited in the Detailed List was not immediately updated in the map mode list.\n- Renaming a herd in the detailed list did not update in map mode until restarting the application.\n- And other minor bug fixes.\n\nKNOWN ISSUES:\n- Certain locations do not switch languages properly according to user settings.\n- Data restore and import are currently experiencing issues and may fail; users are advised to manually back up the Documents/HerdManager.Logbook folder to retain usable data if needed.\n- A few other minor issues that currently do not affect users or data.\n\nDEVELOPMENT ROADMAP:\n- Custom language system will be refactored.\n- Developing the application for mobile devices.\n\nWARNING!!!\n- For application version v1.0.0, all existing images will be removed. As a safety measure, the application will copy the old data from Documents/HerdManager.Logbook to Documents/HerdManager.Logbook.v1.0.0 to preserve the user's previous image data.\n- Data that has been used with a newer application version cannot be used with an older version. You can rename the Documents/HerdManager.Logbook folder if you want to run the application with a different or older version.\n-------------------------\nvi:\nCÁCH CẬP NHẬT:\n- Chạy ứng dụng phiên bản mới.\n- Kiểm tra dữ liệu phiên bản, Khu bảo tồn, Loài, Đàn,... tất cả không bị thay đổi.\n- Dữ liệu an toàn thì tiến hành xóa thư mục ứng dụng phiên bản cũ khỏi máy tính.\n\nTÍNH NĂNG MỚI:\n- Chế độ chụp và ghép ảnh đã được thay mới hoàn toàn, người dùng sẽ không phải chụp và ghép thủ công từng tấm ảnh nữa.\n- Thêm các nội dung hướng dẫn chụp và ghép ảnh trong các cửa sổ chức năng.\n- Thêm hướng dẫn cho các menu biểu tượng trong chế độ bản đồ.\n- Cửa sổ ghi chú mới trong chế độ bản đồ.\n- Đánh dấu cho đàn và cá thể mới được thêm vào.\n\nCẢI THIỆN:\n- Cải thiện giao diện ứng dụng.\n- Cải thiện khả năng xử lý dữ liệu của ứng dụng.\n- Cải thiện chất lượng ảnh ghép\n- Chỉ số Fitness có thể nhập dấu \".\" hoặc \",\" đều được, ứng dụng sẽ luôn hiển thị là dấu \".\" sau khi lưu.\n- Chỉ số Fitness trung bình của mỗi đàn bây giờ đã hiển thị số thực.\n- Phím Esc trong trình sửa ảnh đã làm việc chính xác.\n\nSỬA LỖI:\n- Dữ liệu ở Danh sách chi tiết khi có chỉnh sửa nhưng không được cập nhật ngay vào danh sách trong chế độ bản đồ.\n- Đổi tên đàn trong danh sách chi tiết nhưng trong chế độ bản đồ không đổi theo, phải khởi động lại ứng dụng mới cập nhật.\n- Và các lỗi nhỏ khác.\n\nLỖI ĐANG THEO DÕI:\n- Một vài vị trí không chuyển đổi ngôn ngữ đúng theo cài đặt người dùng.\n- Khôi phục và nhập dữ liệu đang lỗi, người dùng có thể không thể thực hiện được thao tác này, người dùng nên cân nhắc copy dữ liệu trong Documents/HerdManager.Logbook thêm 1 bản khác để khi cần có thể sử dụng lại.\n- Vài lỗi nhỏ khác đang không ảnh hưởng đến người dùng và dữ liệu.\n\nKẾ HOẠCH PHÁT TRIỂN:\n- Ngôn ngữ tùy chỉnh sẽ được cải tạo lại.\n- Phát triển ứng dụng cho các thiết bị di động.\n\nCẢNH BÁO!!!\n- Đối với phiên bản ứng dụng v1.0.0 thì toàn bộ ảnh cũ sẽ bị xóa, cơ chế an toàn sẽ sao chép dữ liệu cũ trong Documents/HerdManager.Logbook sang Documents/HerdManager.Logbook.v1.0.0 để giữ lại dữ liệu ảnh cũ của người dùng.\n- Dữ liệu đã hoạt động ở phiên bản cao hơn sẽ không thể hoạt động ở phiên bản thấp hơn: Bạn có thể đổi tên thư mục Documents/HerdManager.Logbook để chạy lại với các phiên bản ứng dụng mong muốn."
   },
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "bNxAnzvzYm8eGjf5AVZwG0HsLiiRyHoI3o1XiYM9Xsp4vKR5rSjwcRli6KicdRSHDElNbLW2lsNgXkWPSFfhAw=="
+    "value": "tqMyHrha0GIkvPu4qMfGW821t2qEqvU82iUKDuiQD+ePuWXvrq8IV4JAIq9CMJNt6hkWR7grx0nPEw3s7d/nAQ=="
   }
 }
