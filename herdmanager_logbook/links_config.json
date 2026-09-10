@@ -69,7 +69,7 @@
       "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner2.png",
       "width": 728,
       "height": 90,
-      "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
+      "imageSha256": "dbeb1a347b7faeda1d5b4b51c056885fa8d12c835573bab1344ff08717ec4ad7"
     },
     {
       "enabled": false,
@@ -77,7 +77,7 @@
       "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
       "width": 728,
       "height": 90,
-      "imageSha256": "119a988e1a5ada42fcb35c65b5071a696c95f7771a432a21e503a753bcb6f5b9"
+      "imageSha256": "dbeb1a347b7faeda1d5b4b51c056885fa8d12c835573bab1344ff08717ec4ad7"
     }
   ],
   "update": {
@@ -89,6 +89,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "C2J767mUoUmq/UxToHYZjRCHNi3QphdaT48FQEWLbu3zi6Sdr3I5u3JD8QtZaGWVMf7o+o4FymOXZXIWrDIGAw=="
+    "value": "cABIxARAS71mQ5cVlUkj9Q2+PPKTLTkiDvAjoghnPQbKEBGIi1U/evuWJWtoUFcgpNv0sAgkqCLydGgcmb3JBg=="
   }
 }
