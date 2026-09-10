@@ -56,7 +56,7 @@
   "banner": {
     "enabled": true,
     "rotationMinutes": 5,
-    "clickUrl": "",
+    "clickUrl": "https://bit.ly/HerdManager_Logbook_v103",
     "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
     "width": 728,
     "height": 90,
@@ -65,7 +65,7 @@
   "banners": [
     {
       "enabled": true,
-      "clickUrl": "",
+      "clickUrl": "https://bit.ly/HerdManager_Logbook_v103",
       "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner.png",
       "width": 728,
       "height": 90,
@@ -89,6 +89,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "tqMyHrha0GIkvPu4qMfGW821t2qEqvU82iUKDuiQD+ePuWXvrq8IV4JAIq9CMJNt6hkWR7grx0nPEw3s7d/nAQ=="
+    "value": "6UqkfZQqTgiISnZuB2wiy6OznsHesHAevLG0P7A442MlS0eb/KnTWVBFhO/4FMtty0RkHo9O382HzfKUovMvBg=="
   }
 }
