@@ -56,20 +56,20 @@
   "banner": {
     "enabled": true,
     "rotationMinutes": 5,
-    "clickUrl": "https://bit.ly/HerdManager_Logbook_v104",
-    "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner_1.0.4.png",
+    "clickUrl": "https://bit.ly/HerdManager_Logbook_v105",
+    "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banner_1.0.5.png",
     "width": 728,
     "height": 90,
-    "imageSha256": "1656351fc18f9ee49c895dee406d672b0905ee27e6ec32314f55c28487c78c0a"
+    "imageSha256": "51a5558722268f781bde19c400be7046063007f47074e4357263b8002213db33"
   },
   "banners": [
     {
       "enabled": true,
-      "clickUrl": "https://bit.ly/HerdManager_Logbook_v104",
-      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banners_1.0.4.png",
+      "clickUrl": "https://bit.ly/HerdManager_Logbook_v105",
+      "imageUrl": "https://devtris192.github.io/via_config/herdmanager_logbook/images/ads_banners_1.0.5.png",
       "width": 728,
       "height": 90,
-      "imageSha256": "1656351fc18f9ee49c895dee406d672b0905ee27e6ec32314f55c28487c78c0a"
+      "imageSha256": "51a5558722268f781bde19c400be7046063007f47074e4357263b8002213db33"
     },
     {
       "enabled": false,
@@ -81,13 +81,13 @@
   ],
   "update": {
     "enabled": true,
-    "version": "1.0.4",
-    "downloadUrl": "https://bit.ly/HerdManager_Logbook_v104",
-    "patchNotes": "eng:\nHOW TO UPDATE:\n- Launch the new version and follow the built-in updater instructions.\n- After confirming your data is safe, uninstall the previous version using its uninstaller.\n\nNEW FEATURES:\n- Redesigned update screen with clearer changes and easier navigation.\n- New data and application error handling screen.\n\nIMPROVEMENTS:\n- Improved image stitching quality.\n- Improved application interface.\n- Improved language consistency.\n\nBUG FIXES:\n- Fixed data backup and restoration issues.\n\nDEVELOPMENT ROADMAP:\n- Custom language system will be refactored.\n- Developing the application for mobile devices.\n\nWARNING!!!\n- For application version v1.0.0, all existing images will be removed. As a safety measure, the application will copy the old data from Documents/HerdManager.Logbook to Documents/HerdManager.Logbook.v1.0.0 to preserve the user's previous image data.\n- Data that has been used with a newer application version cannot be used with an older version. You can rename the Documents/HerdManager.Logbook folder if you want to run the application with a different or older version.\n\n-------------------------\nvi:\nCÁCH CẬP NHẬT:\n- Chạy ứng dụng phiên bản mới và làm theo hướng dẫn của trình cập nhật của ứng dụng.\n- Dữ liệu an toàn thì tiến hành gỡ cài đặt ứng dụng phiên bản cũ bằng cách dùng trình uninstall trong thư mục ứng dụng phiên bản cũ.\n\nTÍNH NĂNG MỚI:\n- Màn hình cập nhật ứng dụng mới dễ thao tác và thấy rõ các nội dung thay đổi hơn.\n- Màn hình xử lý lỗi dữ liệu và ứng dụng.\n\nCẢI THIỆN:\n- Cải thiện quá trình ghép ảnh. Bây giờ ảnh ghép sẽ đẹp hơn.\n- Giao diện ứng dụng.\n- Cải thiện ngôn ngữ giao diện đồng bộ hơn.\n\nSỬA LỖI:\n- Sửa các lỗi về Sao lưu và khôi phục dữ liệu.\n\nKẾ HOẠCH PHÁT TRIỂN:\n- Ngôn ngữ tùy chỉnh sẽ được cải tạo lại.\n- Phát triển ứng dụng cho các thiết bị di động.\n\nCẢNH BÁO!!!\n- Đối với phiên bản ứng dụng v1.0.0 thì toàn bộ ảnh cũ sẽ bị xóa, cơ chế an toàn sẽ sao chép dữ liệu cũ trong Documents/HerdManager.Logbook sang Documents/HerdManager.Logbook.v1.0.0 để giữ lại dữ liệu ảnh cũ của người dùng.\n- Dữ liệu đã hoạt động ở phiên bản cao hơn sẽ không thể hoạt động ở phiên bản thấp hơn: Bạn có thể đổi tên thư mục Documents/HerdManager.Logbook để chạy lại với các phiên bản ứng dụng mong muốn."
+    "version": "1.0.5",
+    "downloadUrl": "https://bit.ly/HerdManager_Logbook_v105",
+    "patchNotes": "eng:\nHOW TO UPDATE:\n- Launch the new version and follow the built-in updater instructions.\n- After confirming your data is safe, uninstall the previous version using its uninstaller.\n\nNEW FEATURES:\n- Support for saving up to 5 maps for each reserve. Each map can be stored independently for a different screen resolution, making it easier for users who frequently switch between multiple computer monitors.\n- The preferred map is now the one that best matches the current screen resolution and has the most complete set of markers.\n- Map expansion and map updates now support slight zooming.\n\nIMPROVEMENTS:\n- Capture and stitch images at different zoom levels.\n- Maps from version 1.0.4 and earlier that are difficult to expand or update through new captures should be replaced by capturing and stitching the map again in version 1.0.5.\n- Icons with the _often label have been resized for better visual balance.\n\nBUG FIXES:\n- Fixed minor issues.\n\nDEVELOPMENT ROADMAP:\n- Custom language system will be refactored.\n- Developing the application for mobile devices.\n\nWARNING!!!\n- For application version v1.0.0, all existing images will be removed. As a safety measure, the application will copy the old data from Documents/HerdManager.Logbook to Documents/HerdManager.Logbook.v1.0.0 to preserve the user's previous image data.\n- Data that has been used with a newer application version cannot be used with an older version. You can rename the Documents/HerdManager.Logbook folder if you want to run the application with a different or older version.\n\n-------------------------\nvi:\nCÁCH CẬP NHẬT:\n- Chạy ứng dụng phiên bản mới và làm theo hướng dẫn của trình cập nhật của ứng dụng.\n- Dữ liệu an toàn thì tiến hành gỡ cài đặt ứng dụng phiên bản cũ bằng cách dùng trình uninstall trong thư mục ứng dụng phiên bản cũ.\n\nTÍNH NĂNG MỚI:\n- Lưu được tối đa 5 bản đồ cho một khu bảo tồn, mỗi bản đồ sẽ là một độ phân giải màn hình độc lập dành cho người dùng hay chuyển qua lại nhiều màn hình máy tính khác nhau.\n- Bản đồ ưu tiên hiển thị là bản đồ có độ phân giải phù hợp với màn hình đang sử dụng và có đầy đủ các điểm đánh dấu nhất.\n- Bây giờ mở rộng bản đồ hoặc cập nhật bản đồ đã hỗ trợ thu phóng nhẹ.\n\nCẢI THIỆN:\n- Chụp và ghép ảnh ở độ thu phóng khác nhau.\n- Bản đồ từ các phiên bản 1.0.4 trở về trước gặp tình trạng khó mở rộng hoặc khó chụp cập nhật thì nên thay thế bằng cách chụp và ghép lại ở phiên bản 1.0.5 này.\n- Biểu tượng có gắn nhãn _often được điều chỉnh kích thước cân bằng hơn.\n\nSỬA LỖI:\n- Sửa các lỗi nhỏ.\n\nKẾ HOẠCH PHÁT TRIỂN:\n- Ngôn ngữ tùy chỉnh sẽ được cải tạo lại.\n- Phát triển ứng dụng cho các thiết bị di động.\n\nCẢNH BÁO!!!\n- Đối với phiên bản ứng dụng v1.0.0 thì toàn bộ ảnh cũ sẽ bị xóa, cơ chế an toàn sẽ sao chép dữ liệu cũ trong Documents/HerdManager.Logbook sang Documents/HerdManager.Logbook.v1.0.0 để giữ lại dữ liệu ảnh cũ của người dùng.\n- Dữ liệu đã hoạt động ở phiên bản cao hơn sẽ không thể hoạt động ở phiên bản thấp hơn: Bạn có thể đổi tên thư mục Documents/HerdManager.Logbook để chạy lại với các phiên bản ứng dụng mong muốn."
   },
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "0d48f30f330fe7e5",
-    "value": "GbJKpxgNkItQBd01lFJ8DHgBtSw6lSnOvk0aXwFVVwEkIOwbc8jTWzr0oaxDf+9/QtzCoRRyAs9JTzg8b173Dw=="
+    "value": "s0+t4ihdx3QQCXSEo0m2LJnthwGA3Mir/HP8jJF9I6Nw4mNCF1c1VzYe6Y2WVLGz6NHYCuRBcnoooqrdQ3wOBw=="
   }
 }
